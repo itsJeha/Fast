@@ -1,0 +1,11 @@
+{
+  "name": "Fast",
+  "version": "1.0.0",
+  "description": "Bot Test",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "One Of Us",
+  "license": "ISC"
+}
